@@ -1,4 +1,4 @@
-- 👋 Hi, Jeremy aka @paddington1961
+- 👋 Hi, I'm Jeremy aka @paddington1961
 - 👀 I’m interested in C++
 - 🌱 I’m always learning you never know everything
 - 😄 Pronouns: don't get me started. If you can't work it out from my name then there is no hope for you.
